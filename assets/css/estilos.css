@@ -27,6 +27,14 @@ body {
   color: #373a3c;
 }
 
+
+#titulo{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  letter-spacing: 2px;
+}
+
 @media (max-width: 768px) {
   #Contacto form label {
     font-weight: 400;
